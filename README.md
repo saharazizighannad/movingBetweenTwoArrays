@@ -10,3 +10,4 @@ The following environment variables can be set
 | INTERVAL_TIME | Time to run the function | 1000
 | ALGORITHM | The algorithm should be used in application |  fifo
 
+node index.js
